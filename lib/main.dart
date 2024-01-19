@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:solar_system/view/splash_view.dart';
+import 'package:solar_system/view/splash_view/splash_view.dart';
 
 void main() {
   runApp(const MyApp());
