@@ -380,6 +380,7 @@ class ShowText extends StatelessWidget {
         Text(
           "PLANET",
           style: GoogleFonts.exo(
+
             textStyle: TextStyle(
               fontSize: 21,
               color: Colors.white.withOpacity(0.8)
